@@ -55,7 +55,7 @@
     - @ModelAttribute Pojo obj -- in argument or return value
     - return ModelView from req handler method
 
-# Today's Agenda
+## Today's Agenda
 
 - [ ] MVC Validation
 - [ ] Session scoped Beans
